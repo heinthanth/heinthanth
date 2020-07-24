@@ -11,15 +11,7 @@ I'm a complete `self-taught PHP developer`, who have experiences in `Linux Serve
 
 ## Some Projects :fire:
 
-* The Linux Command Line book translation into Myanmar [ [heinthanth/tlcl](https://github.com/heinthanth/TLCL) ]
-
-* Simple, moddable PHP micro-framework based on Symfony [ [heinthanth/moddable](https://github.com/heinthanth/moddable) ]
-
-* A script that select the fastest mirror for Kali Linux [ [heinthanth/better-mirror](https://github.com/heinthanth/better-mirror) ]
-
-* UIT Students' Union website in Laravel / PHP [ [0xheinthanth/uit-su](https://github.com/0xheinthanth/uit-su) ]
-
-* Simple, Hackable, Cross-platform application to install Google Fonts easily! [ [heinthanth/h3xfonts](https://github.com/heinthanth/h3xfonts) ]
+* See `Pinned REPOs`
 
 ## Other Info
 
