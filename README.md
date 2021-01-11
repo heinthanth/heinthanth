@@ -16,7 +16,7 @@ I'm a complete `self-taught PHP developer`, who have experiences in `Linux Serve
 ## Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=heinthanth&count_private=true&show_icons=true&theme=merko&include_all_commits=true" alt="Hein's Github Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heinthanth&count_private=true&show_icons=true&theme=merko&include_all_commits=true&line_height=20" alt="Hein's Github Statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heinthanth&layout=compact&theme=merko&langs_count=6" alt="Hein's Most used Languages" />
 </p>
 
