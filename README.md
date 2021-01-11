@@ -13,6 +13,13 @@ I'm a complete `self-taught PHP developer`, who have experiences in `Linux Serve
 
 * See `Pinned REPOs`
 
+## Statistics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=heinthanth&count_private=true&show_icons=true&theme=merko&layout=compact&line_height=20" alt="Hein's Github Statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heinthanth&layout=compact&theme=merko" alt="Hein's Most used Languages" />
+</p>
+
 ## Other Info
 
 * GPG PUBLIC KEY: [`0x2E1082FBF9CB91E9`](https://github.com/heinthanth/heinthanth/blob/master/assets/pub.asc) ( available at [`pgp.mit.edu`](http://pgp.mit.edu), [`keys.gnupg.net`](http://keys.gnupg.net), [`keys.openpgp.org`](http://keys.openpgp.org) )
