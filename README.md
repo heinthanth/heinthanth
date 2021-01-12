@@ -1,7 +1,7 @@
 # It's me
 
 ```
-heinthanth@github.com: ~$ cat me.txt
+heinthanth@github.com: ~$ cat heinthanth/README.md
 ```
 Hey! It's me `H31iUMx49`. Hein Thant Maung Maung (ဟိန်းသန့်မောင်မောင်) as my full name.\
 I've learned `Web Technologies` since I was 13. Enjoy to learn something new and loves `Open Source`.
