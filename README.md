@@ -19,8 +19,9 @@ with some experience and practices:
 * Deno 1.0+, Java 8+, Go 1.1+
 * Rust, Haskell ( still learning ), CoffeeScript ( similar to Functional Language, but it's JS )
 
-## Reach Me:
+## Some Links and Resources:
 
 * GPG PUBLIC KEY: [0x2E1082FBF9CB91E9](https://github.com/heinthanth/heinthanth/blob/master/assets/pub.asc) ( available at [pgp.mit.edu](http://pgp.mit.edu), [keys.gnupg.net](http://keys.gnupg.net), [keys.openpgp.org](http://keys.openpgp.org) )
 * @heinthanth on most social networks.
 * EMAIL: [me@heinthanth.com](mailto:me@heinthanth.com), [heinthanth@protonmail.com](mailto:heinthanth@protonmail.com)
+* WEBSITE: https://heinthanth.com ( old one ), https://heinthantisme.pages.dev ( under development )
