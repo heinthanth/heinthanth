@@ -17,7 +17,7 @@ I'm comfortable with:
 with some experience and practices:
 * 🐍 3+ ( I know much about it, but I don't use it much )
 * Deno 1.0+, Java 8+, Go 1.1+
-* Rust, Haskell ( still learning ), CoffeeScript ( similar to Functional Language, but it's JS )
+* Rust, Haskell ( still learning ), CoffeeScript, LiveScript ( similar to Functional Language, but it's JS )
 
 ## Some Links and Resources:
 
