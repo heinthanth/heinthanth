@@ -1,27 +1,27 @@
 # Hi there!
 
-I'm Hein Thant Maung Maung 👋. Just a CS student, Full-stack Web Developer, Junior Flutter Developer, Junior DevOps, Open Source Lover, and passionated Language hacker, and also, love to create EDM, too!
+I'm Hein Thant Maung Maung 👋 ( also known as William ). I'm Computer Science student at [UoPeople](https://uopeople.edu), Professional Full-stack Web Developer with knowledge of [React Native](https://reactnative.dev/), [Flutter](https://flutter.dev/) and [DevOps](https://en.wikipedia.org/wiki/DevOps) related stuffs. I'm passionate about [Programming Languages](https://en.wikipedia.org/wiki/Programming_language), [Interpreters](https://en.wikipedia.org/wiki/Interpreter_(computing)), [Compilers](https://en.wikipedia.org/wiki/Compiler), etc. and also, love to make [EDM](https://en.wikipedia.org/wiki/Electronic_dance_music) and I use [Cubase](https://www.steinberg.net/cubase/) Artist.
 
 ## Languages and Technologies
 
 I'm comfortable with:
-* HTML 5+, CSS 3+, JS ES6+
-* Bootstrap 4+, TailwindCSS 3+, Ant Design 4+
-* PHP 7+, Node ( JS / TS ) 12+, Dart 1.2+
-* Laravel 5+, ExpressJS 4.16+, Flutter 1.2+
-* Nim 1.4+, C 99+, C++ 11+
-* MongoDB 4.0+, MariaDB 10+
-* Linux ( Debian 10+ based ), Linux ( RedHat 8+ based ), Linux ( Arch based )
-* Windows 7+, macOS 10.13+
+* [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [TypeScript](https://www.typescriptlang.org/)
+* [Bootstrap](https://getbootstrap.com/), [TailwindCSS](https://tailwindcss.com/),
+* [PHP](https://php.net), [Node](https://nodejs.org), [Deno](https://deno.land), [Python](https://python.org)
+* [React](https://reactjs.org), [Qwik](https://qwik.builder.io), [Laravel](https://laravel.com), [ExpressJS](https://expressjs.com/)
+* [Nim](https://nim-lang.org), [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B)
+* [MongoDB](https://www.mongodb.com/), [MariaDB](https://mariadb.org/)
+* [Linux](https://en.wikipedia.org/wiki/Linux) ( [Debian](https://www.debian.org/) based, [RedHat](https://redhat.com) based, [Arch](https://archlinux.org) based )
+* [Debian](https://www.debian.org/) based linux distros are distros I used the most
+* Knowledge of [Windows](https://www.microsoft.com/windows/), [macOS](https://www.apple.com/macos/) to some extent. But I'm using macOS now.
 
 with some experience and practices:
-* 🐍 3+ ( I know much about it, but I don't use it much )
-* Deno 1.0+, Java 8+, Go 1.1+
-* Rust, Haskell ( still learning ), CoffeeScript, LiveScript ( similar to Functional Language, but it's JS )
+* [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [Go](https://go.dev), [Rust](https://rust-lang.org)
+* [Dart](https://dart.dev), [Flutter](https://flutter.dev), [React Native](https://reactnative.dev/)
 
 ## Some Links and Resources:
 
 * GPG PUBLIC KEY: [0x2E1082FBF9CB91E9](https://github.com/heinthanth/heinthanth/blob/master/assets/pub.asc) ( available at [pgp.mit.edu](http://pgp.mit.edu), [keys.gnupg.net](http://keys.gnupg.net), [keys.openpgp.org](http://keys.openpgp.org) )
 * @heinthanth on most social networks.
 * EMAIL: [me@heinthanth.com](mailto:me@heinthanth.com), [heinthanth@protonmail.com](mailto:heinthanth@protonmail.com)
-* WEBSITE: https://heinthanth.com ( old one ), https://heinthantisme.pages.dev ( under development )
+* WEBSITE: https://heinthanth.com
