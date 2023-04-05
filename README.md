@@ -8,7 +8,7 @@ I'm comfortable with:
 * [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS), [JavaScript](https://en.wikipedia.org/wiki/JavaScript), [TypeScript](https://www.typescriptlang.org/)
 * [Bootstrap](https://getbootstrap.com/), [TailwindCSS](https://tailwindcss.com/),
 * [PHP](https://php.net), [Node](https://nodejs.org), [Deno](https://deno.land), [Python](https://python.org)
-* [React](https://reactjs.org), [Qwik](https://qwik.builder.io), [Laravel](https://laravel.com), [ExpressJS](https://expressjs.com/)
+* [React](https://reactjs.org), [Laravel](https://laravel.com), [ExpressJS](https://expressjs.com/)
 * [Nim](https://nim-lang.org), [C](https://en.wikipedia.org/wiki/C_(programming_language)), [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 * [MongoDB](https://www.mongodb.com/), [MariaDB](https://mariadb.org/)
 * [Linux](https://en.wikipedia.org/wiki/Linux) ( [Debian](https://www.debian.org/) based, [RedHat](https://redhat.com) based, [Arch](https://archlinux.org) based )
@@ -16,6 +16,7 @@ I'm comfortable with:
 * Knowledge of [Windows](https://www.microsoft.com/windows/), [macOS](https://www.apple.com/macos/) to some extent. But I'm using macOS now.
 
 with some experience and practices:
+* [Qwik](https://qwik.builder.io), [Solid](https://solidjs.com), [Vue](https://vuejs.org/)
 * [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [Go](https://go.dev), [Rust](https://rust-lang.org)
 * [Dart](https://dart.dev), [Flutter](https://flutter.dev), [React Native](https://reactnative.dev/)
 
