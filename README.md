@@ -14,11 +14,11 @@ I'm comfortable with:
 * [MongoDB](https://www.mongodb.com/), [MariaDB](https://mariadb.org/)
 * [Linux](https://en.wikipedia.org/wiki/Linux) ( [Debian](https://www.debian.org/) based, [RedHat](https://redhat.com) based, [Arch](https://archlinux.org) based )
 * [Debian](https://www.debian.org/) based linux distros are distros I used the most
-* Knowledge of [Windows](https://www.microsoft.com/windows/), [macOS](https://www.apple.com/macos/) to some extent. But I'm using macOS now.
+* Knowledge of [Windows](https://www.microsoft.com/windows/), [macOS](https://www.apple.com/macos/) to some extent. But I'm using Windows now.
 
 with some experience and practices:
+* [Rust](https://rust-lang.org), [Haskell](https://haskell.org/), [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [Go](https://go.dev)
 * [Qwik](https://qwik.builder.io), [Solid](https://solidjs.com), [Vue](https://vuejs.org/)
-* [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [Go](https://go.dev), [Rust](https://rust-lang.org)
 * [Dart](https://dart.dev), [Flutter](https://flutter.dev), [React Native](https://reactnative.dev/)
 
 Notes:
