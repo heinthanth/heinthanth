@@ -7,8 +7,10 @@ When I'm not coding, I make EDM in Cubase and Ableton Live, or I'm flight simmin
 
 ### 🔨 Notable Projects
 
-- **[zaka](https://github.com/heinthanth/zaka)**: a programming language based on a subset of Burmese (Rust)
-- **[ni18n](https://github.com/heinthanth/ni18n)** ⭐30: fast Nim macros for i18n and l10n
+- **[zaka](https://github.com/heinthanth/zaka)**: a programming language based on a subset of Burmese
+- **[ni18n](https://github.com/heinthanth/ni18n)**: super Fast Nim macros For internationalization and localization
+- **[uit-lang](https://github.com/uitverse/uit-lang)**: a simple, pseudo-code-like programming language
+- **[macos-bootable-usb](https://github.com/htmm/macos-bootable-usb)**: a tool to create macOS installation media outside MAS
 
 ### 🧰 Tools
 
